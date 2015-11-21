@@ -1,0 +1,4 @@
+D:\Projects\C#\汽车用品管理系统\ServerControl\bin\Debug\ServerControl.exe
+D:\Projects\C#\汽车用品管理系统\ServerControl\bin\Debug\ServerControl.pdb
+D:\Projects\C#\汽车用品管理系统\ServerControl\obj\x86\Debug\ServerControl.exe
+D:\Projects\C#\汽车用品管理系统\ServerControl\obj\x86\Debug\ServerControl.pdb

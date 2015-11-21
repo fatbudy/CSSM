@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f360df41-c9b1-406e-b52b-c79a61c07712" name="fatbudy@BUDY 2015-10-04 10:40:09" runUser="BUDY\fatbudy" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="1070b683-45f9-40e1-b162-9bd7c838079f">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="fatbudy_BUDY 2015-10-04 10_40_09">
+      <DeploymentItem filename="D:\Projects\C#\DBLLv4.0\mssql\bin\Debug\MSSQL.dll" />
+      <DeploymentItem filename="D:\Projects\C#\DBLLv4.0\idblink\bin\Debug\idblink.dll" />
+      <DeploymentItem filename="D:\Projects\C#\汽车用品管理系统\dbl\bin\Debug\dbl.dll" />
+      <DeploymentItem filename="D:\Projects\C#\DBLLv4.0\dbll3.0\bin\Debug\dbll3.0.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-04T10:40:09.7975405+08:00" queuing="2015-10-04T10:40:11.2192932+08:00" start="2015-10-04T10:40:11.4193048+08:00" finish="2015-10-04T10:40:20.9820056+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="UpdateTest" storage="d:\projects\c#\汽车用品管理系统\testproject1\bin\debug\testproject1.dll" id="caba0455-a1ff-c3ef-895c-d1953fbb6be4">
+      <Execution id="f87d26f8-5ba1-4b81-8fa4-0e08270c2bf0" />
+      <TestMethod codeBase="D:/Projects/C#/汽车用品管理系统/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.DBLClassTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UpdateTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="caba0455-a1ff-c3ef-895c-d1953fbb6be4" executionId="f87d26f8-5ba1-4b81-8fa4-0e08270c2bf0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f87d26f8-5ba1-4b81-8fa4-0e08270c2bf0" testId="caba0455-a1ff-c3ef-895c-d1953fbb6be4" testName="UpdateTest" computerName="BUDY" duration="00:00:07.9698997" startTime="2015-10-04T10:40:11.6233152+08:00" endTime="2015-10-04T10:40:20.8669973+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f87d26f8-5ba1-4b81-8fa4-0e08270c2bf0">
+    </UnitTestResult>
+  </Results>
+</TestRun>

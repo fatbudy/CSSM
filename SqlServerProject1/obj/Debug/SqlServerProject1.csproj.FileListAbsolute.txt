@@ -1,0 +1,5 @@
+D:\Projects\C#\汽车用品管理系统\SqlServerProject1\bin\Debug\SqlServer.dll
+D:\Projects\C#\汽车用品管理系统\SqlServerProject1\bin\Debug\SqlServer.pdb
+D:\Projects\C#\汽车用品管理系统\SqlServerProject1\obj\Debug\SqlServerProject1.csprojResolveAssemblyReference.cache
+D:\Projects\C#\汽车用品管理系统\SqlServerProject1\obj\Debug\SqlServer.dll
+D:\Projects\C#\汽车用品管理系统\SqlServerProject1\obj\Debug\SqlServer.pdb

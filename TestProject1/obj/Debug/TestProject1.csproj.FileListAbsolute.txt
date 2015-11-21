@@ -1,0 +1,17 @@
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\TestProject1.dll
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\TestProject1.pdb
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\dbl.dll
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\dbll3.0.dll
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\idblink.dll
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\MSSQL.dll
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\dbll3.0.pdb
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\dbll3.0.xml
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\idblink.pdb
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\MSSQL.pdb
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\dbl.pdb
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\dbl.xml
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\dbl_Accessor.dll
+D:\Projects\C#\汽车用品管理系统\TestProject1\bin\Debug\dbl_Accessor.pdb
+D:\Projects\C#\汽车用品管理系统\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+D:\Projects\C#\汽车用品管理系统\TestProject1\obj\Debug\TestProject1.dll
+D:\Projects\C#\汽车用品管理系统\TestProject1\obj\Debug\TestProject1.pdb
